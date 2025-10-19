@@ -8,20 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/MrAsim1453899" target="blank"><img src="https://img.shields.io/twitter/follow/MrAsim1453899?logo=twitter&style=for-the-badge" alt="goshwami_manish" /></a> </p>
 
-- 💬 Ask me about "**Cloud,Networking & Java,Python,HTML**"
- 
 - 🔭 I’m currently working on "**Cybersecurity & DSA"**
-    
+      
 - 🌱 I’m currently learning "**Programming languages**"
+
+- 💬 Ask me about "**Cloud,Networking & Java,Python,HTML**"
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://fb.com/muhammedasim0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammedasim0909" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadasim.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasim.6" height="30" width="40" /></a>
+<a href="https://twitter.com/mrasim1453899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrasim1453899" height="30" width="40" /></a>
+<a href="https://fb.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadasim.9" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasim.9" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/respect world 90+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="respect world 90+" height="30" width="40" /></a>
 <a href="https://discord.gg/asim_76895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asim_76895" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
