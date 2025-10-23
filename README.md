@@ -1,4 +1,4 @@
-
+<img width="4456" height="1082" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/1702dcb8-4f9b-4611-82fa-7b73f432cefb" />
 <h1 align="center">Hi 👋, I'm Mr Asim</h1>
 <h3 align="center">Passionate Computer Science Engineer from Pakistan — building ideas that shape the future</h3>
 
@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrasim1453899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrasim1453899" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadasim.9" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasim.9" height="30" width="40" /></a>
+<a href="https://fb.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadasim.9" height="30" width="40" /></a>      
+<a href="https://instagram.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasim.9" height="30" width="40" /></a>      
 <a href="https://www.youtube.com/c/respect world 90+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="respect world 90+" height="30" width="40" /></a>
 <a href="https://discord.gg/asim_76895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asim_76895" height="30" width="40" /></a>
 </p>
