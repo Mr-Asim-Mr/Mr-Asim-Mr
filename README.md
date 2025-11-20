@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Asim-Mr&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Asim-Mr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-asim-mr" alt="mr-asim-mr" /></a> </p>
-
+<img align="right" alt="coding" width="450"
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzN2p6dHE5ejc3NV3azRkWVEzjcjkxbjdwMzE1N2Y2NV3Ftd2YzZyZlc1D2MV9pbnRlcm5hbF9naWZyInlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/MrAsim1453899" target="blank"><img src="https://img.shields.io/twitter/follow/MrAsim1453899?logo=twitter&style=for-the-badge" alt="goshwami_manish" /></a> </p>
 
 - 🔭 I’m currently working on "**Cybersecurity & DSA"**
@@ -35,3 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokimkhanh&" alt="mr-asim-1" /></p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
