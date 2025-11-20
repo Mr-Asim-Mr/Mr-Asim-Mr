@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Asim-Mr&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Asim-Mr" /> </p>
 
-<img align="right" alt="coding" width="450"
+<img align="right" alt="coding" width="420"
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzN2p6dHE5ejc3NV3azRkWVEzjcjkxbjdwMzE1N2Y2NV3Ftd2YzZyZlc1D2MV9pbnRlcm5hbF9naWZyInlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/MrAsim1453899" target="blank"><img src="https://img.shields.io/twitter/follow/MrAsim1453899?logo=twitter&style=for-the-badge" alt="goshwami_manish" /></a> </p>
 
