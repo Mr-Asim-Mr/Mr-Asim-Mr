@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mr Asim</h1>
 <h3 align="center">Passionate Computer Science Engineer from Pakistan — building ideas that shape the future</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Asim-Mr&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Asim-Mr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Asim-Mr" /> </p>
 
 <img align="right" alt="coding" width="420"
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzN2p6dHE5ejc3NV3azRkWVEzjcjkxbjdwMzE1N2Y2NV3Ftd2YzZyZlc1D2MV9pbnRlcm5hbF9naWZyInlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
