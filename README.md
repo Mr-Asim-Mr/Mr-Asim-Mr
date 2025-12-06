@@ -1,5 +1,6 @@
-<img width="4456" height="1082" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/1702dcb8-4f9b-4611-82fa-7b73f432cefb" />
-<h1 align="center">Hi 👋, I'm Mr Asim</h1>
+<img width="5133" height="1276" alt="1" src="https://github.com/user-attachments/assets/a806598d-e80c-420b-8b4c-033d9d5d0514" />
+
+<h1 align="center">Hi 👋, I'm Mr.Asim</h1>
 <h3 align="center">Passionate Computer Science Engineer from Pakistan — building ideas that shape the future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Asim-Mr" /> </p>
