@@ -33,7 +33,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzN2p6dHE5ejc3NV3azRkWV
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Asim-Mr&show_icons=true&locale=en" alt=Mr-Asim-Mr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokimkhanh&" alt="mr-asim-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokimkhanh&" alt="Mr-Asim-Mr" /></p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
