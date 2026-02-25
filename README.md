@@ -23,7 +23,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzN2p6dHE5ejc3NV3azRkWV
 <a href="https://fb.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadasim.9" height="30" width="40" /></a>      
 <a href="https://instagram.com/muhammadasim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasim.9" height="30" width="40" /></a>      
 <a href="https://www.youtube.com/c/@Respectworld90plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="respect world 90+" height="30" width="40" /></a>
-<a href="https://discord.gg/asim_76895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asim_76895" height="30" width="40" /></a>
+<a href="https://discord.gg/misterasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="misterasim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
