@@ -37,22 +37,21 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzN2p6dHE5ejc3NV3azRkWV
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamimran613&theme=vision_friendly_dark">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamimran613&theme=vision_friendly_dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alamimran613&theme=vision_friendly_dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alamimran613&theme=vision_friendly_dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamimran613&theme=vision_friendly_dark&utcOffset=8">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Asim-Mr&theme=vision_friendly_dark">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabble&theme=vision_friendly_dark">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vincentkoc&theme=vision_friendly_dark">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saghul&theme=vision_friendly_dark">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saghul&theme=vision_friendly_dark&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?>
 
 </div>
 
 <p align="center">
-  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostmkg&theme=vision_friendly_dark" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=maxuanquang&theme=vision_friendly_dark" />
 </p>
 
 </div><br>
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
