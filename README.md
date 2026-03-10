@@ -32,11 +32,9 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzN2p6dHE5ejc3NV3azRkWV
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/muhammad_asim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhammad_asim" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostmkg&show_icons=true&locale=en&layout=compact" alt="Mr-Asim-Mr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Asim-Mr&show_icons=true&locale=en" alt=Mr-Asim-Mr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokimkhanh&" alt="Mr-Asim-Mr" /></p>
+![](https://github-readme-stats.vercel.app/api?username=dokimkhanh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dokimkhanh&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dokimkhanh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
